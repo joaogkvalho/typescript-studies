@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@types/node": "^17.0.42",
+    "systemjs": "^0.21.6"
+  }
+}
